@@ -1,0 +1,215 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script>
+        console.log("Please obtain the author's consent before using this source code. \nYou can get contact information on https://github.com/renbaoshuo .");
+        console.log("Hostname: "+location.hostname+"\nLocation: https://baoshuo.ren/?utm_source="+location.hostname+"&utm_medium=go");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Redirect</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="refresh" content="1; url=https://baoshuo.ren/?utm_source=renbaoshuo.gitee.io&utm_medium=go">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <style type="text/css">
+        .container,
+        .content {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0085B6;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #00709D;
+        }
+
+        h1 {
+            color: #444;
+            font-size: 36px;
+            line-height: 44px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #666;
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        .container {
+            display: flex;
+            margin: 0 auto;
+            max-width: 1200px;
+            min-height: 100vh;
+            align-items: center;
+        }
+
+        .content {
+            display: flex;
+            width: 100%;
+        }
+
+        .message {
+            margin-left: 30px;
+            padding: 15px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            width: 50%;
+        }
+
+        .message-content {
+            width: 75%;
+        }
+
+        .message-logo {
+            width: 98px;
+        }
+
+        .image {
+            text-align: right;
+            width: 50%;
+            margin-right: 30px;
+        }
+
+        .image>img {
+            max-width: 365px;
+        }
+
+        .author {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            flex-direction: row;
+            margin-top: 50px;
+        }
+
+        .author-credit {
+            font-size: 12px;
+        }
+
+        .author-avatar {
+            margin-right: 5px;
+            margin-top: 11px;
+            height: 25px;
+        }
+
+        @media screen and (max-width: 1042px) {
+            .message-content {
+                width: 80%;
+            }
+        }
+
+        @media screen and (max-width: 1023px) {
+
+            .image,
+            .message {
+                text-align: center;
+                width: 100%;
+            }
+
+            .content {
+                flex-wrap: wrap;
+                max-width: 391px;
+                margin: 0 auto;
+                position: relative;
+                padding-top: 20px;
+            }
+
+            .image {
+                margin-right: 0;
+            }
+
+            .image>img {
+                max-width: 359px;
+            }
+
+            .message {
+                margin-left: 0;
+            }
+
+            .message-logo {
+                position: absolute;
+                top: 25px;
+                left: 25px;
+            }
+
+            .message-content {
+                margin: 0 auto;
+                width: 100%;
+            }
+
+            .author {
+                justify-content: center;
+            }
+        }
+
+        @media screen and (max-width: 414px) {
+            .image>img {
+                max-width: 243px;
+            }
+
+            .message {
+                width: 100%;
+                text-align: center;
+            }
+
+            .message-content {
+                max-width: 414px;
+            }
+
+            .message-logo {
+                position: absolute;
+                top: 20px;
+            }
+
+            h1 {
+                font-size: 28px;
+                line-height: 37px;
+            }
+
+            .author-avatar {
+                height: 24px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <div class="image">
+                <img src="https://cdn.jsdelivr.net/gh/renbaoshuo/renbaoshuo/assets/images/redirect.gif">
+            </div>
+            <div class="message">
+                <div class="message-content">
+                    <h2>Redirecting to <a
+                            href="https://baoshuo.ren/?utm_source=renbaoshuo.gitee.io&utm_medium=go">baoshuo.ren</a> ...
+                    </h2>
+                    <br>
+                    <b>Please wait a moment.</b>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Preload
+        xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://baoshuo.ren/", true);
+        xhr.send();
+    </script>
+</body>
+
+</html>

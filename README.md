@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 style="text-align: center;">👋 Hello! I'm Ren Baoshuo.</h3>
 
-<!--
-**renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align: center;">
+<a href="https://baoshuo.ren">Website</a>&nbsp;•&nbsp;
+<a href="https://baoshuo.blog">Blog</a>&nbsp;•&nbsp;
+<a href="https://twitter.com/renbaoshuo">Twitter</a>&nbsp;•&nbsp;
+<a href="https://github.com/renbaoshuo">GitHub</a>&nbsp;•&nbsp;
+<a href="https://gitee.com/renbaoshuo">Gitee</a>&nbsp;•&nbsp;
+<a href="https://t.me/baoshuo">Telegram</a>&nbsp;•&nbsp;
+<a href="https://baoshuo.ren/about.html">Telegram</a>
+</p>
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
+
+## Blog Posts
+
+Only the latest **5** articles are displayed here.
+
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
+
+**See more on [baoshuo.blog](https://baoshuo.blog).**
