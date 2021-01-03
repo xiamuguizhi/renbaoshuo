@@ -23,4 +23,4 @@ Only the latest **5** articles are displayed here.
 <!--START_SECTION:posts-->
 <!--END_SECTION:posts-->
 
-**See more on [baoshuo.blog](https://baoshuo.blog).**
+**See more on [blog.baoshuo.ren](https://blog.baoshuo.ren).**
