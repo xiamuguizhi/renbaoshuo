@@ -1,6 +1,6 @@
-<h3 style="text-align: center;">👋 Hello! I'm Ren Baoshuo.</h3>
+<h3 align="center">👋 Hello! I'm Ren Baoshuo.</h3>
 
-<p style="text-align: center;">
+<p align="center">
 <a href="https://baoshuo.ren">Website</a>&nbsp;•&nbsp;
 <a href="https://baoshuo.blog">Blog</a>&nbsp;•&nbsp;
 <a href="https://twitter.com/renbaoshuo">Twitter</a>&nbsp;•&nbsp;
@@ -10,7 +10,7 @@
 <a href="https://baoshuo.ren/about.html">Telegram</a>
 </p>
 
-<p style="text-align: center;">My GPG key ID: <b><code>D79D3B7E00D42042</code></b></p>
+My GPG key ID: **`D79D3B7E00D42042`**
 
 ## Github Stats
 
